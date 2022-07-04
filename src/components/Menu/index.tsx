@@ -1,23 +1,23 @@
 import React from "react";
 import { FcReuse } from "react-icons/fc";
-import * as 5 from "./styles";
+import * as S from "./styles";
 import { Link } from "react-router-dom";
 
 const Menu = () => {
     return (
         <S.Cabecalho>
             <picture>
-                <link to="/">
+                <Link to="/">
                     <FcReuse />
-                </link>
+                </Link>
             </picture>
             <nav>
                 <ul>
                     <li>
-                        <link to="/login">Login</link>
+                        <Link to="/login">Login</Link>
                     </li>
                     <li>
-                        <link to="/cadastrar">Cadastrar</link>
+                        <Link to="/cadastrar">Cadastrar</Link>
                     </li>
                 </ul>
             </nav>
