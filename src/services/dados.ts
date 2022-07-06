@@ -1,4 +1,5 @@
 const dados = 
+[
     {
         id: 1
         nome: "Lázaro",
