@@ -1,4 +1,4 @@
-export interface ICard {
+export interface ICarddados {
     dados: {
         id: number,
         nome: string,
@@ -7,7 +7,7 @@ export interface ICard {
         mensagem: string,
         topico: {
             id: number,
-            item: string,
+            item: string
         }[]
     }
 }

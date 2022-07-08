@@ -1,6 +1,6 @@
-import styled from "styled-components";
+import styled from "styled-components"
 
-export const Layled = styled.div`
+export const Layout = styled.div`
     main {
         min-height: 80vh;
     }

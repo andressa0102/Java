@@ -15,5 +15,5 @@ export const colors = {
     third: "#ffb74d",
     thirdLight: "#ffe9ca",
     white: "#ffffff",
-    blak: "#000000",
+    black: "#000000",
 } 

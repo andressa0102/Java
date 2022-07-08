@@ -17,5 +17,7 @@ const Rodape = () => {
                 </a>
             </div>
         </S.Rodape>
-    )
-}
+    );
+};
+
+export default Rodape;
