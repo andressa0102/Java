@@ -1,5 +1,5 @@
 import React from "react";
 
-export interface IButtton {
-    childrem?: React.ReactNode
+export interface IButton {
+    children?: React.ReactNode
 }

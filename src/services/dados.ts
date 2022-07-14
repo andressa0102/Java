@@ -19,7 +19,7 @@ const dados =
         nome: "Luan",
         data: "28/04/2022 10:08:00",
         titulo: "Calça",
-        Mensagem: "Tenho uma calça para doar, alguém interessa?",
+        mensagem: "Tenho uma calça para doar, alguém interessa?",
         topico: [{
             id: 1,
             item: "Reutilizar"
